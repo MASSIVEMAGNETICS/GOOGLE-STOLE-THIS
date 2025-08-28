@@ -1,0 +1,6 @@
+{
+  "description": "An AI-powered application that allows a user to upload two images, select a blending style (e.g., Fuse, Mash), provide an optional text prompt for guidance, and generate a new, unique image by combining the inputs. Built by Massive Magnetics.",
+  "requestFramePermissions": [],
+  "name": "Image Fusion",
+  "prompt": ""
+}
